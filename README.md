@@ -4,9 +4,9 @@
 
 This interactive online MSD Skills training course is aimed at MSD postgraduate research students and staff with some programming experience in R who want to expand their skills in order to create reproducible analysis workflows and publication quality figures from biological data. 
  
-* 24th April @ 9.30am - 1.00pm 
-* 1st May @ 10.00am - 1.00pm 
-* 8th May @ 10.00am - 1.00pm 
+* 19th June @ 9.30am - 1.00pm 
+* 21st June @ 10.00am - 1.00pm 
+* 26th June @ 10.00am - 1.00pm 
  
 ## COURSE AIM 
 By the end of this module, you will be able to perform end-to-end analysis of your own data including statistics and advanced visualization using the third-party packages, which extend the functionality of the base R. 
